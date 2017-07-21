@@ -164,6 +164,7 @@ in {
         gitAndTools.git-octopus
         gitAndTools.git-crypt
         gitFull
+        tig
         sshfsFuse
         sshuttle
         jq
